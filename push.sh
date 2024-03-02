@@ -16,7 +16,7 @@ ORG=Snigdha-OS
 
 # Set the repository URL and branch
 REPO_URL="${HOST}/${ORG}/${REPO}.git"
-BRANCH="master"  # or "master" depending on your repository's default branch
+BRANCH="master"  # or "main" depending on your repository's default branch
 
 # Commit message
 MESSAGE="@eshanized: push via script"
