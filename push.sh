@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# Author        : Eshan Roy <eshan@snigdhaos.org>
+# Author URI    : https://eshanized.github.io/
+
+# NOTE: REPO = Your Repository Name On the Host
+# NOTE: ORG =  Your ORGANIZATION NAME or USERNAME
+# NOTE: HOST = GitHub, Gitlab, Bitbucket etc.  
+
 # Repo Config
 REPO=snigdhaos-backgrounds
 # Host Config
