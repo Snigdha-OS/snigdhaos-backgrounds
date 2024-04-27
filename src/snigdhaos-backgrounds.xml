@@ -3,8 +3,8 @@
 <wallpapers>
 <wallpaper deleted="false">
 <name>SNIGDHA OS 01</name>
-<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-backgrounds-01.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-backgrounds-02.jpg</filename-dark>
+<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-01.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-02.jpg</filename-dark>
 <options>zoom</options>
 <shade_type>solid</shade_type>
 <pcolor>#3465a4</pcolor>
@@ -12,7 +12,71 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>SNIGDHA OS 02</name>
-<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-backgrounds-03</filename>
+<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-03.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-04.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>SNIGDHA OS 03</name>
+<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-05.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-06.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>SNIGDHA OS 04</name>
+<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-07.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-08.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>SNIGDHA OS 05</name>
+<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-09.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-10.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>SNIGDHA OS 06</name>
+<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-11.jpg</filename>
+<!-- <filename-dark>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-12.jpg</filename-dark> -->
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>SNIGDHA OS 07</name>
+<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-13.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-14.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>SNIGDHA OS 08</name>
+<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-15.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-16.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>SNIGDHA OS 09</name>
+<filename>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-17.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-backgrounds/snigdhaos-background-18.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
