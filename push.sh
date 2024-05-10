@@ -1,27 +1,35 @@
 #!/bin/bash
 
-# Author        : Eshan Roy <eshan@snigdhaos.org>
-# Author URI    : https://eshanized.github.io/
+# Author        : Eshanized <m.eshanized@gmail.com>
+# Author URI    : https://tonmoyinfrastructure.github.io/eshanized/
 
-# NOTE: REPO = Your Repository Name On the Host
-# NOTE: ORG =  Your ORGANIZATION NAME or USERNAME
-# NOTE: HOST = GitHub, Gitlab, Bitbucket etc.  
+################################ NOTE ################################
+#!!!!!!!!!!!!! Exexcute all the scripts at your own risk !!!!!!!!!!!!!
+# I have written the push script for Arch Linux and other Arch Based #
+# Linux Distribution. So this script will only work in ArchLinux and #
+# Arch based Linux Distribution. You may customize it according to   #
+# your Distribution.                                                 #
+######################################################################
 
-# Repo Config
-REPO=snigdhaos-backgrounds
-# Host Config
-HOST=https://github.com
-# Destination Config
-ORG=Snigdha-OS
+# ---> First We will check for commitizen is installed or not
+check_commitizen() {
+    if ! pacman -Qq commitizen-go &> /dev/null; then
+        echo "Commitizen is not installed. Please install it using 'yay -S commitizen-go'." >&2
+        exit 1
+    fi
+}
 
-# Set the repository URL and branch
-REPO_URL="${HOST}/${ORG}/${REPO}.git"
-BRANCH="master"  # or "main" depending on your repository's default branch
+# Function to stage, commit, and push changes
+push_to_github() {
+    git add .
+    git cz
+    git push origin master
+}
 
-# Commit message
-MESSAGE="@eshanized: push via script"
+# Main Function
+main() {
+    check_commitizen
+    push_to_github
+}
 
-# Add all files, commit, and push changes
-git add .
-git commit -m "$MESSAGE"
-git push origin $BRANCH
+main
