@@ -3,7 +3,7 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
   <a href="https://github.com/Snigdha-OS/snigdhaos-backgrounds/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge" alt="Contributions Welcome"></a>
-  <a href="https://github.com/Snigdha-OS/snigdhaos-backgrounds/actions"><img src="https://img.shields.io/github/actions/workflow/status/Snigdha-OS/snigdhaos-backgrounds/ci.yml?branch=main&style=for-the-badge" alt="Build Status"></a>
+  <a href="https://github.com/Snigdha-OS/snigdhaos-backgrounds/actions"><img src="https://img.shields.io/github/actions/workflow/status/Snigdha-OS/snigdhaos-backgrounds/cz.yml?branch=master&style=for-the-badge" alt="Build Status"></a>
   <a href="https://snigdhaos.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsnigdhaos.org&style=for-the-badge" alt="Website Status"></a>
 </p>
 
