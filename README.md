@@ -1,17 +1,20 @@
 # 🌅 Snigdha OS Backgrounds  
 
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
+  <a href="https://github.com/Snigdha-OS/snigdhaos-backgrounds/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge" alt="Contributions Welcome"></a>
+  <a href="https://github.com/Snigdha-OS/snigdhaos-backgrounds/actions"><img src="https://img.shields.io/github/actions/workflow/status/Snigdha-OS/snigdhaos-backgrounds/ci.yml?branch=main&style=for-the-badge" alt="Build Status"></a>
+  <a href="https://snigdhaos.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsnigdhaos.org&style=for-the-badge" alt="Website Status"></a>
+</p>
+
 Welcome to **Snigdha OS Backgrounds**! 🎨  
 This repository is home to the stunning wallpapers and backgrounds designed for **SnigdhaOS**. Whether you're here to browse, contribute, or download, we've got something visually captivating for everyone.  
-
-
 
 ## 🖼️ What’s Inside?  
 
 ✨ A collection of high-quality wallpapers for Snigdha OS.  
 🎨 Themes ranging from minimalistic to vibrant designs.  
 🌌 Regular updates with fresh, original content.  
-
-
 
 ## 📂 Folder Structure  
 
@@ -24,10 +27,7 @@ snigdhaos-backgrounds/
 ├── LICENSE
 ├── README.md
 └── push.sh
-
 ```  
-
-
 
 ## 🚀 How to Use  
 
@@ -39,8 +39,6 @@ snigdhaos-backgrounds/
 
 3. **Apply:**  
    Set it as your desktop background in SnigdhaOS or any other operating system.  
-
-
 
 ## 🌟 Contributing  
 
@@ -56,28 +54,20 @@ Please make sure your wallpapers are:
 ✅ Free from copyright issues.  
 ✅ Original or appropriately credited.  
 
-
-
 ## 📜 License  
 
 This project is licensed under the **MIT License**. Feel free to use the wallpapers, but give credit where it’s due. ❤️  
-
-
 
 ## ❤️ Acknowledgments  
 
 A big thank you to the community for contributing and supporting this project! 🙌  
 Feel free to share your thoughts, suggestions, and creations.  
 
-
-
 ## 🔗 Stay Connected  
 
 Got ideas or questions? Reach out to us here:  
 
 📧 **Email:** [hello@snigdhaos.org](mailto:hello@snigdhaos.org)  
-🌐 **Website:** [Snigdha OS Official](https://snigdhaos.org)  
+🌐 **Website:** [Snigdha OS Official](https://snigdhaos.org) 
 
-
-
-Enjoy the vibrant world of SnigdhaOS Backgrounds! 🎉  
+Enjoy the vibrant world of SnigdhaOS Backgrounds! 🎉
